@@ -23,9 +23,9 @@ export const RESUME_DATA = {
   name: "Benjamin Pappas",
   initials: "BP",
   location: "Washington, DC, USA",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/Washington,+DC",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "M.A International Affairs Candidate at The George Washington University",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
