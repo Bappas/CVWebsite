@@ -20,44 +20,44 @@ import { LinkedInIcon } from "@/components/icons/LinkedInIcon";
 import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Benjamin Pappas",
+  initials: "BP",
+  location: "Washington, DC",
+  locationLink: "https://www.google.com/maps/place/Washington,+DC",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "M.A International Affairs Candidate @ The George Washington University",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "I am presently earning my M.A International Affairs from The George Washington University, where my research focuses on international organizations, specifically the UN, as well as security issues in East and Southeast Asia relevant to the United States and its foreign policy. I graduated in 2023 from Occidental College with a B.A in Diplomacy and World Affairs, and East Asian Studies.",
+  personalWebsiteUrl: "https://benjaminpappas.com",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "benapappas@gmail.com",
+    tel: "+18183245495",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/Bappas",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/benjaminpappas/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "The George Washington University",
+      degree: "Master of Arts in International Affairs",
+      start: "2023",
+      end: "Present",
     },
+    {
+    school: "Occidental College",
+      degree: "Bachelor or Arts in Diplomacy and World Affairs, East Asian Studies",
+      start: "2019",
+      end: "2023",
+    }
   ],
   work: [
     {
